@@ -7,7 +7,11 @@
       "Bash(rtk read *)",
       "Bash(uv add *)",
       "Bash(uv run *)",
-      "Bash(python3 -c ' *)"
+      "Bash(python3 -c ' *)",
+      "Bash(rtk git *)",
+      "Bash(python3 *)",
+      "Skill(handoff)",
+      "Bash(mktemp *)"
     ]
   }
 }
