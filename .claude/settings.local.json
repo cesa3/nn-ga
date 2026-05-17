@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rtk ls *)",
+      "mcp__ide__executeCode",
+      "Bash(.venv/bin/python *)",
+      "Bash(rtk read *)",
+      "Bash(uv add *)",
+      "Bash(uv run *)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
